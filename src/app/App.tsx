@@ -25,8 +25,6 @@ const App = () => {
                        <Layout style={{ minHeight: '100vh' }}>
                 <Navbar />
           <Sidebar theme={useTheme().theme} />  
-       
-
       <Layout>
         <Header style={{ padding: 0, background: colorBgContainer }} />
         <Content style={{ margin: '0 16px', padding:'016px'}}>
